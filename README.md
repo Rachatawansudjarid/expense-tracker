@@ -5,12 +5,12 @@ A modern and responsive web application built with Vite, React, and Tailwind CSS
 Deployed Link:
 🔗 https://expense-tracker-gamma-virid.vercel.app
 How to Run Locally:
-Clone the repository:
+1.Clone the repository:
 git clone https://github.com/Rachatawansudjarid/expense-tracker.git
 cd expense-tracker
-Install dependencies:
+2.Install dependencies:
 npm install
-Start the development server:
+3.Start the development server:
 npm run dev
-Open in browser:
+4.Open in browser:
 Visit http://localhost:5173
